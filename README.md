@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/amansingh0311-mcp-qdrant-openai-badge.png)](https://mseep.ai/app/amansingh0311-mcp-qdrant-openai)
+
 # MCP Qdrant Server with OpenAI Embeddings
 
 [![smithery badge](https://smithery.ai/badge/@amansingh0311/mcp-qdrant-openai)](https://smithery.ai/server/@amansingh0311/mcp-qdrant-openai)
